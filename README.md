@@ -51,8 +51,9 @@ plt.show()
 ```
 
 ## Output:
+<img width="502" alt="image" src="https://user-images.githubusercontent.com/94836154/225858701-eee3c97b-597d-497f-b90f-bd22d794eed6.png">
 
-![m](https://user-images.githubusercontent.com/94175324/225346330-8eeb79af-a550-44f4-8e8d-0b7c4523c217.jpg)
+
 ![Screenshot 2023-03-15 140214](https://user-images.githubusercontent.com/94175324/225346417-9ce8bbc0-c07e-4590-b85f-21287580ec68.jpg)
 
 
